@@ -52,7 +52,7 @@ li a.active, li a:hover{
     display: none;
 }
 section{
-    background: url(/img/menu.jpg) no-repeat;
+    background: url(../img/menu.jpg) no-repeat;
     background-size: cover;
     background-origin: center center;
     height: calc(100vh - 80px);
