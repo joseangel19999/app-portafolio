@@ -41,7 +41,6 @@ li a.active, li a:hover{
     font-size: 30px;
     color: #fff;
     float: right;
-    /* el line hei se usa tambien para centrar usando el alto maximo */
     line-height: 80px;
     margin-right: 40px;
     cursor: pointer;
